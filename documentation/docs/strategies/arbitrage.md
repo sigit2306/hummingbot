@@ -40,7 +40,7 @@ The following parameters are fields in Hummingbot configuration files (located i
 
 | Term | Definition |
 |------|------------|
-| **secondary_to_primary_base_conversion_rate** | Specifies conversion rate for secondary quote asset value to primary quote asset value.
+| **secondary_to_primary_base_conversion_rate** | Specifies conversion rate for secondary base asset value to primary base asset value.
 | **secondary_to_primary_quote_conversion_rate** | Specifies conversion rate for secondary quote asset value to primary quote asset value.
 
 
